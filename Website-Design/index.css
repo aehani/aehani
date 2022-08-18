@@ -1,0 +1,19 @@
+section.hero-area {
+    background-image: url(homepage/img/codes-coding-computer-270366.jpg);
+    max-height: 94vh; 
+}
+img.first {
+    height: 233px; 
+    width: 360px; 
+}
+section.call-to-action.section-sm.bg-1.overly {
+    padding-top: 100px;
+    padding-bottom: 100px; 
+    max-width: 100%; 
+    height: auto; 
+}
+section#about.testimonial.overly.section.bg-2 {
+    max-width: 100%; 
+    height: auto; 
+    
+}
