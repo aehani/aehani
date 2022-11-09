@@ -1,0 +1,142 @@
+th {
+    text-align: center !important; 
+  
+}
+td, th {
+    padding: 10px !important; 
+    text-align: center !important; 
+    font-size: 15px;
+    padding-left: 20px !important; 
+    padding-right: 20px !important; 
+}
+
+#table {
+    position: relative;
+    min-height: 1px;
+    padding-right: 250px;
+    padding-left: 15px;
+    margin-top: 60px;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    float: left; 
+    display: grid !important; 
+   
+}
+
+@media screen and (max-width: 990px) {
+    #table {
+        align-content: center; 
+        padding-right: 15px;
+    }
+    
+    
+}
+
+
+#all {
+    box-sizing: border-box;
+}
+
+div.all {
+    bottom: 100px;
+}
+
+form#myform {
+    text-align: center !important; 
+    display: inline !important; 
+    margin-left:auto !important;
+    margin-right:auto !important; 
+    font-size: 15px; 
+}
+
+section#services.section.section-padded {
+    padding: 75px 0 100px; 
+}
+
+#frm {
+    padding-top: 30px; 
+
+}
+@media screen and (max-width: 990px) {
+    #frm {
+        margin-left: -5px;
+        padding-bottom: 40px; 
+        align-self: stretch; 
+        display: inline-table !important;
+    }
+    
+    
+}
+
+@media screen and (min-width: 990px) {
+    #frm {
+        margin-left: -235px;
+    }
+    
+    
+}
+@media screen and (max-width: 990px) {
+    div.col-md-12.text-center {
+        padding-top: 375px; 
+    }
+    
+}
+
+@media screen and (min-width: 990px) {
+    div.col-md-12.text-center {
+        padding-top: 850px; 
+    }
+    
+}
+
+#new {
+    background-color: #b0b686a6;
+}
+#newtwo {
+    background-color: #70ceff;
+}
+
+ul, li {
+    color: black !important; 
+}
+
+@media (min-width: 768px) {
+      .navbar-nav > li > a {
+          color: black !important; 
+        
+    }
+    
+}
+
+@media screen and (max-width: 990px) {
+    #bntsubmit {
+        align-content: center; 
+        margin-top: 20px;
+        top: -100px; 
+    }
+    
+}
+
+span.input.input--nao {
+    top: -75px; 
+}
+
+@media screen and (max-width: 990px) {
+    span.input.input--nao {
+        top: -75px; 
+    }
+    
+}
+section.content {
+    padding-bottom: 0px; 
+    padding-top: 48px; 
+}
+
+h1.white.typed {
+    padding-top: 25px; 
+    padding-bottom: 40px; 
+}
+
+#text {
+    color: white; 
+}
