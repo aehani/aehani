@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">JobCompare6300</string>
+    <string name="job_title">Title</string>
+    <string name="company">Company</string>
+    <string name="city">City</string>
+    <string name="cost_living">Cost of living</string>
+    <string name="annual_sal">Annual Salary</string>
+    <string name="annual_bonus">Yearly Bonus</string>
+    <string name="ret_match">Retirement Match</string>
+    <string name="reloc_stipend">Relocation Stipend</string>
+    <string name="rest_stock">Restricted Stock Award</string>
+    <string name="edit_job_btn">Current job Details</string>
+    <string name="adjust_comparison_settings">Adjust Comparison Settings</string>
+    <string name="compare_job_offers">Compare Job Offers</string>
+    <string name="add_new_job_offer">Add New Job offer</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="job_offer_comparison">Job Offer Comparison</string>
+    <string name="job_details">Job Details</string>
+    <string name="location">Location</string>
+    <string name="state">State</string>
+    <string name="compare">Compare</string>
+    <string name="comparison_analysis">Comparison Analysis</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="compare_more_offers">Compare More Offers</string>
+    <string name="compare_job_err_only_two">You may only select 2 job offers to compare.</string>
+    <string name="compare_job_err_two_or_more">You need to select 2 job offers to start comparison.</string>
+
+    <string-array name="setting_choices">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>
